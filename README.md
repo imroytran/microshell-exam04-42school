@@ -1,8 +1,10 @@
 # microshell-exam04-42school
 
-Assignment name  : microshell
-Expected files   : *.c *.h
-Allowed functions: malloc, free, write, close, fork, waitpid, signal, kill, exit, chdir, execve, dup, dup2, pipe, strcmp, strncmp
+
+- Assignment name  : microshell
+
+- Expected files   : *.c *.h
+- Allowed functions: malloc, free, write, close, fork, waitpid, signal, kill, exit, chdir, execve, dup, dup2, pipe, strcmp, strncmp
 --------------------------------------------------------------------------------------
 
 Write a program that will behave like executing a shell command
